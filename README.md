@@ -1,5 +1,5 @@
 [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
-# TakasumiBOTworknotification
+# TakasumiBOT work notification
 - **このレポジトリはGPL-3.0ライセンスの元で公開されています**
 - **これを使って出来たコードは同じライセンスで公開する必要があるためご注意下さい**
 - **このbotはTakasumiBOTv2に基づいた機能となっています**
@@ -15,5 +15,5 @@
 > [!Note]
 > botの起動ができる事が前提となっています。わからない方はggってください
 
-※このREADMEは随時更新していきます
+※このREADMEは随時更新していきます(過不足があった際に)
 
