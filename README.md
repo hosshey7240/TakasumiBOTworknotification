@@ -10,6 +10,8 @@
 # 開発
 - @KYMario
 - @hosshey7240
+# 開発協力
+- @naisu-dev
 # TakasumiBOTworknotification 説明
 複数人の対応はしておりません。完全に個人用と思ってください。<br>
 discord.pyを使用しています
