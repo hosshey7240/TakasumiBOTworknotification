@@ -13,7 +13,7 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if message.author.id == 981314695543783484 and len(message.embeds) = 1 and message.embeds[0].author.name is not None:
+    if message.author.id == 981314695543783484 and len(message.embeds) = 1 and "コイン手に入れました" in message.embeds[0].author.name:
         embed = discord.Embed(title="TakasumiBOT work通知",description="workを受信しました。\n20分後に通知します。",color=discord.Color.brand_green())
         await message.reply(embed=embed)
         await asyncio.sleep(1200)
