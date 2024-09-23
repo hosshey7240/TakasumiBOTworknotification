@@ -8,10 +8,11 @@
 - TakasumiBOTサポートサーバー
 - https://discord.gg/NEesRdGQwD 
 # 開発
-- [KYMrio](https://github.com/KYMario)
+- [KYMario](https://github.com/KYMario)
 - [hosshey7240](https://github.com/hosshey7240)
 # 開発協力
 - [naisu-dev](https://github.com/naisu-dev)
+- [nemu-a1021](https://github.com/nemu-a1021)
 # TakasumiBOTworknotification 説明
 複数人の対応はしておりません。完全に個人用と思ってください。<br>
 discord.pyを使用しています
