@@ -8,8 +8,8 @@
 - TakasumiBOTサポートサーバー
 - https://discord.gg/NEesRdGQwD 
 # 開発
-- @hosshey7240
 - @KYMario
+- @hosshey7240
 # TakasumiBOTworknotification 説明
 複数人の対応はしておりません。完全に個人用と思ってください。<br>
 > [!Note]
