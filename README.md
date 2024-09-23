@@ -1,8 +1,8 @@
 [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
 # TakasumiBOTworknotification
-**このレポジトリはGPL-3.0ライセンスの元で公開されています**
-**これを使って出来たコードは同じライセンスで公開する必要があるためご注意下さい**
-**このbotはTakasumiBOTv2に基づいた機能となっています**
+- **このレポジトリはGPL-3.0ライセンスの元で公開されています**
+- **これを使って出来たコードは同じライセンスで公開する必要があるためご注意下さい**
+- **このbotはTakasumiBOTv2に基づいた機能となっています**
 # TakasumiBOT開発
 - @taka005
 - TakasumiBOTサポートサーバー
