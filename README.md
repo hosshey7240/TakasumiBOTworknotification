@@ -12,7 +12,7 @@
 - @hosshey7240
 # TakasumiBOTworknotification 説明
 複数人の対応はしておりません。完全に個人用と思ってください。<br>
-discord.pyを使っています
+discord.pyを使用しています
 > [!Note]
 > botの起動ができる事が前提となっています。わからない方はggってください
 
