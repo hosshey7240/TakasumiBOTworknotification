@@ -2,7 +2,7 @@
 # TakasumiBOTworknotification
 **このレポジトリはGPL-3.0ライセンスの元で公開されています**
 **これを使って出来たコードは同じライセンスで公開する必要があるためご注意下さい**
-#開発
+# 開発
 - @hosshey_7240
 - @KYMario
 # TakasumiBOTworknotification 説明
