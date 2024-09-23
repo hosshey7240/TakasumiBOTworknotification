@@ -4,14 +4,14 @@
 - **これを使って出来たコードは同じライセンスで公開する必要があるためご注意下さい**
 - **このbotはTakasumiBOTv2に基づいた機能となっています**
 # TakasumiBOT開発
-- @taka005
+- [Taka005](https://github.com/Taka005)
 - TakasumiBOTサポートサーバー
 - https://discord.gg/NEesRdGQwD 
 # 開発
-- @KYMario
-- @hosshey7240
+- [KYMrio](https://github.com/KYMario)
+- [hosshey7240](https://github.com/hosshey7240)
 # 開発協力
-- @naisu-dev
+- [naisu-dev](https://github.com/naisu-dev)
 # TakasumiBOTworknotification 説明
 複数人の対応はしておりません。完全に個人用と思ってください。<br>
 discord.pyを使用しています
