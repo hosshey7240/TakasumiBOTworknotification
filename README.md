@@ -19,7 +19,7 @@ discord.pyを使用しています</br>
 > [!Note]
 > botの起動ができる事が前提となっています。わからない方はggってください
 # 要望等の連絡先
-hosshey7240main+github@gmail.com
+hosshey7240main+github@gmail.com</br>
 追加して欲しい機能があればできる分だけ追加します(できるとも限らない)<br>
 ※このREADMEは随時更新していきます(過不足があった際に)
 
