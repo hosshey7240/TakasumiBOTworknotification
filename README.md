@@ -21,7 +21,7 @@ discord.pyを使用しています</br>
 # 要望等の連絡先
 hosshey7240main+github@gmail.com</br>
 追加して欲しい機能があればできる分だけ追加します(できるとも限らない)<br>
-※このREADMEは随時更新していきます(過不足があった際に)
+※このREADMEは随時更新していきます(過不足があった際に)(近日更に更新予定）
 # パッケージのインストール
 ```bash
 pip install -r requirements.txt
