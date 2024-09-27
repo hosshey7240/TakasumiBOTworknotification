@@ -1,7 +1,10 @@
 import discord
 import asyncio
+from dotenv import load_dotenv
+import os
 
-TOKEN = ""
+load_dotenv(verbose = True)
+TOKEN = os.environ.get("TOKEN")
 
 intents = discord.Intents.default()
 intents.message_content = True
