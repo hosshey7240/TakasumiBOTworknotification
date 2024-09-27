@@ -22,4 +22,9 @@ discord.pyを使用しています</br>
 hosshey7240main+github@gmail.com</br>
 追加して欲しい機能があればできる分だけ追加します(できるとも限らない)<br>
 ※このREADMEは随時更新していきます(過不足があった際に)
-
+# パッケージのインストール
+```bash
+pip install -r requirements.txt
+pip3 install -r requirements.txt
+```
+環境によってコードを変えてください
