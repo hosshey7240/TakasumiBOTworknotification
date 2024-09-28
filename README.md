@@ -28,3 +28,6 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 環境によってコードを変えてください
+# お知らせ
+近日中に更新入れます(実装内容→簡単なhelpコマンドの実装等)
+
