@@ -9,10 +9,10 @@
 - https://discord.gg/NEesRdGQwD 
 # 開発
 - [KYMario](https://github.com/KYMario)
-- [hosshey7240](https://github.com/hosshey7240)
 - [naisu-dev](https://github.com/naisu-dev)
 - [nemu-a1021](https://github.com/nemu-a1021)
 - [shizengakari](https://github.com/shizengakari)
+- - [hosshey7240](https://github.com/hosshey7240)
 # TakasumiBOTworknotification 説明
 複数人の対応はしておりません。完全に個人用と思ってください。<br>
 discord.pyを使用しています</br>
