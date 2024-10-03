@@ -3,7 +3,7 @@ import asyncio
 from dotenv import load_dotenv
 import os
 
-load_dotenv(verbose = True)
+load_dotenv(verbose=True)
 TOKEN = os.environ.get("TOKEN")
 
 intents = discord.Intents.default()
@@ -23,4 +23,8 @@ async def on_message(message):
         embed2 = discord.Embed(title="TakasumiBOT work通知", description="workの時間です\n</work:1132868147519692871>でお金を得ましょう", color=discord.Color.brand_green())
         await message.channel.send(embed=embed2)
 
-client.run(TOKEN)
+async def main():
+    await client.start(TOKEN)
+
+loop = asyncio.get_event_loop()
+loop.create_task(main())
